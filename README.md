@@ -1,16 +1,8 @@
-# day1_starbucks
+# Day1_starbucks
 
-A new Flutter project.
+#This is an UI for a Starbucks app, developed using flutter, the UI design inspiration is taken from dribble.
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/71991617/176573307-3460f772-a15f-43ea-886b-1b89c0b5dcb9.png)
 
-This project is a starting point for a Flutter application.
+#Drrible design- https://dribbble.com/shots/6191271-Starbucks-UI-Mobile-Apps/attachments/11311680?mode=media
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
