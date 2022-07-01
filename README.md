@@ -1,16 +1,7 @@
 # day2_vpn
 
-A new Flutter project.
+#This is an UI of a VPN app developed using flutter.
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/71991617/176928330-dab1897b-1b46-4b1b-8aef-8cbfa064138e.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Dribble design- https://dribbble.com/shots/18603430-VPN-LITE-VPN-Mobile-App
