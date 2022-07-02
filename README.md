@@ -1,16 +1,5 @@
-# day3_glassmorphism
+# day3_kettle
 
-A new Flutter project.
+![image](https://user-images.githubusercontent.com/71991617/177012640-01148624-ade1-420f-be57-6e38cd101c93.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#UI inspiration- https://www.toptal.com/designers/ui/neumorphic-ui-design#:~:text=Neumorphic%20design%20is%20a%20visual%20trend%20that%20has,physical%20attributes%E2%80%94such%20as%20shadows%20and%20textures%E2%80%94to%20digital%20interfaces.
