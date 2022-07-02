@@ -5,3 +5,5 @@
 #Day1- https://github.com/Shourya70073/30_days_of_UI_with_Flutter/tree/day1
 
 #Day2 - https://github.com/Shourya70073/30_days_of_UI_with_Flutter/tree/day2
+
+#Day3 - https://github.com/Shourya70073/30_days_of_UI_with_Flutter/tree/day3
