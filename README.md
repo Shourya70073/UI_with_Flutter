@@ -1,4 +1,4 @@
-# 30_days_of_UI_with_Flutter
+#UI_with_Flutter
 
 #For 30 days, I will try to clone a good looking dribble design using flutter.
 
